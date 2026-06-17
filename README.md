@@ -127,7 +127,7 @@ Through these projects, I learned:
 
 # 👩‍💻 Author
 
-**Anushka**
+**Mohini**
 - B.Tech (Computer Science & Engineering)
 - GLA University
 - GitHub: https://github.com/mohini-2004
