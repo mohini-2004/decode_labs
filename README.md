@@ -134,4 +134,95 @@ Through these projects, I learned:
 
 ---
 
+
+
+
+
+📌 Password Generator with Python
 ⭐ If you found these projects useful, feel free to star the repository.
+# 🔐 Random Password Generator
+
+A simple Python project that generates strong and random passwords based on the user's preferred password length. This project uses Python's built-in `random` and `string` modules to create secure passwords containing letters, numbers, and special characters.
+
+## 📌 Features
+
+- Generates random passwords instantly
+- User can choose the password length
+- Includes uppercase and lowercase letters
+- Includes numbers and special characters
+- Easy to understand and beginner-friendly
+
+## 🛠️ Technologies Used
+
+- Python 3
+- random module
+- string module
+
+## 📂 Project Structure
+
+```
+Random-Password-Generator/
+│── password_generator.py
+│── README.md
+```
+
+## ▶️ How to Run
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/your-username/Random-Password-Generator.git
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd Random-Password-Generator
+```
+
+3. Run the program.
+
+```bash
+python password_generator.py
+```
+
+## 💻 Sample Output
+
+```
+Enter the password length: 12
+
+Generated Password: A@7m#P2x!9Qr
+```
+
+## 📖 How It Works
+
+1. The program asks the user to enter the desired password length.
+2. It combines uppercase letters, lowercase letters, numbers, and special characters.
+3. A random password is generated using Python's `random` module.
+4. The generated password is displayed on the screen.
+
+## 🎯 Learning Outcomes
+
+This project helped me learn:
+- Working with Python modules
+- Importing libraries
+- String manipulation
+- Random password generation
+- User input handling
+- Writing clean and reusable Python code
+
+## 🚀 Future Improvements
+
+- Copy password directly to clipboard
+- Save generated passwords to a file
+- Add password strength checker
+- Create a graphical user interface (GUI)
+- Generate multiple passwords at once
+
+## 👩‍💻 Author
+
+**Mohini Gupta**
+
+---
+
+⭐ If you found this project useful, consider giving it a star!
